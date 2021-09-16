@@ -1,14 +1,14 @@
 name = "Quarry Reborn"
-filename = "quarry-reborn-1.17-0.4.0.jar"
+filename = "quarry-reborn-1.17-0.4.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3459/202/quarry-reborn-1.17-0.4.0.jar"
+url = "https://edge.forgecdn.net/files/3461/46/quarry-reborn-1.17-0.4.1.jar"
 hash-format = "murmur2"
-hash = "2373244620"
+hash = "2051125708"
 
 [update]
 [update.curseforge]
-file-id = 3459202
+file-id = 3461046
 project-id = 511254
 release-channel = "beta"

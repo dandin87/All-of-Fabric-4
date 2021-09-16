@@ -3,7 +3,7 @@ name = "AoF4 Pre3"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d9f1dfc8b2e3280bfbaf9bdf57b35b532384028b5128ca4f006dac35ed03f1bd"
+hash = "b4639aea942e1634e9301b00826c7dcdfe53eee934f1abbad257cf30728b033a"
 
 [versions]
 fabric = "0.11.6"
