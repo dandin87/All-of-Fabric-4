@@ -1,0 +1,10 @@
+name = "AoF4 Pre3"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d9f1dfc8b2e3280bfbaf9bdf57b35b532384028b5128ca4f006dac35ed03f1bd"
+
+[versions]
+fabric = "0.11.6"
+minecraft = "1.17.1"
