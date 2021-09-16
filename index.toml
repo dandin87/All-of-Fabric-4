@@ -1644,6 +1644,11 @@ hash = "46fb472b82738a4c0c2781fabecf356becaaaf27bb8f547f65e2da9e66b267d2"
 metafile = true
 
 [[files]]
+file = "mods/campanion.toml"
+hash = "25031087fe906358c8921c8b0358a1f81b19f86e254d277d015b223e0736879f"
+metafile = true
+
+[[files]]
 file = "mods/can-i-mine-this-block.toml"
 hash = "b7c68b7e98480cf56b4a87379e76a563d31efcdde9de6e88b3efe5dab54442f1"
 metafile = true
@@ -1735,7 +1740,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-loading-screen.toml"
-hash = "cd9849d637958a3375036cd4476c63af48c611d0073a817461e8884131171460"
+hash = "fb77c4398da4cd76c82e4cddbd1fbf264ff27aa6166679a9b7a974eee50e2713"
 metafile = true
 
 [[files]]
